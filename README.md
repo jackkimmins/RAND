@@ -7,7 +7,7 @@ Random Numbers Seeded with WebCam Feed
 4. Use that int to seed the Random generator.
 
 ## Demo
-```c
+```csharp
 using System;
 
 namespace RAND
